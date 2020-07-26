@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPatternCustomUserAuth", "StrategyPatternCustomUserAuth\StrategyPatternCustomUserAuth.csproj", "{79275AB5-C3BE-401A-9E83-2854D7D45CD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79275AB5-C3BE-401A-9E83-2854D7D45CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79275AB5-C3BE-401A-9E83-2854D7D45CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79275AB5-C3BE-401A-9E83-2854D7D45CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79275AB5-C3BE-401A-9E83-2854D7D45CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED818E00-1EA3-4B6C-ABCA-D4A4D05D120B}
+	EndGlobalSection
+EndGlobal
